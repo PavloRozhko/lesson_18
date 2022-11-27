@@ -106,7 +106,7 @@ body {
 		padding-right: 60px;
 	}
 	.header__content {
-		grid-template-columns: minmax(150px, auto) repeat(auto-fill,minmax(460px, 1fr)) minmax(386px, auto);
+		grid-template-columns: minmax(150px, auto) repeat(auto-fill, minmax(460px, 1fr) minmax(386px, auto));
 	}
 	.menu__icon {
 		display: none;
